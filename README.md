@@ -1,2 +1,2 @@
 # standard-deviation-calculator
-This is a project from FreeCodeCamp
+This is a task from FreeCodeCamp data analysis course.
